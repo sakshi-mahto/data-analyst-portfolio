@@ -81,10 +81,3 @@ Interactive dashboard analyzing sales trends, product performance, and category 
 
 *This portfolio is actively maintained and updated with new projects regularly.*
 ```
-
-PROJECTS
-Sales Performance Dashboard | Power BI, Excel | Dec 2024
-- Created interactive dashboard analyzing 138K in sales across products and categories
-- Implemented dynamic filtering and KPI tracking for executive decision-making
-- Identified 55% sales decline trend requiring strategic attention
-- GitHub: github.com/[your-username]/data-analyst-portfolio/tree/main/01-sales-dashboard
