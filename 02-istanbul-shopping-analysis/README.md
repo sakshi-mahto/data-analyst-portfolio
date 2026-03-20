@@ -1,4 +1,4 @@
-# 🛍️ Istanbul Shopping Mall — Customer Data Analysis
+# 🛍️ Istanbul Shopping Mall — Customer Rate Analysis
 **PRDA-05 | Project Team ID: PTID-CDA-FEB-26-1308**
 
 ## 📌 Project Overview
