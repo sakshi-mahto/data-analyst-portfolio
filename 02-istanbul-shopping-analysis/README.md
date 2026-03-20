@@ -28,6 +28,7 @@ Total Revenue: ₺251.5 Million
 ## 📁 Files
 | File | Description |
 |------|-------------|
-| `Istanbul_Shopping_Analytics_Report.pptx` | Full PPT |
+| `Customer_Rate_Analytics_Report.pptx` | Full PPT |
 | `customer_data.csv` | Dataset |
 | `dashboard_screenshots/` | Dashboard images |
+
