@@ -52,7 +52,7 @@ shopping malls (2021–2023), uncovering ₺251.5M in revenue patterns.
 - Top Segment: Female customers (59.8%)
 - Top Category: Clothing (₺114M)
 - Top Mall: Mall of Istanbul (₺50.9M)
-
+![Dashboard Preview](./02-istanbul-shopping-analysis/page1_kpi_summary.png)
 [View Project →](https://github.com/sakshi-mahto/data-analyst-portfolio/tree/main/02-istanbul-shopping-analysis)
 
 ---
