@@ -7,9 +7,9 @@ shopping malls between 2021–2023.
 Total Revenue: ₺251.5 Million
 
 ## 🛠️ Tools Used
-- Python (Pandas, Matplotlib)
 - Power BI Desktop
 - Microsoft PowerPoint
+- SQL
 
 ## 🔍 Key Findings
 - Female customers = 59.8% of shoppers & ₺150.2M revenue
@@ -31,4 +31,7 @@ Total Revenue: ₺251.5 Million
 | `Customer_Rate_Analytics_Report.pptx` | Full PPT |
 | `customer_data.csv` | Dataset |
 | `dashboard_screenshots/` | Dashboard images |
+| `Customer_Analysis.pbix` | Power BI Dashboard |
+
+
 
