@@ -35,7 +35,7 @@ Interactive dashboard analyzing sales trends, product performance, and category 
 
 ### 2. 🛍️ [Istanbul Shopping Mall — Customer Data Analysis](https://github.com/sakshi-mahto/data-analyst-portfolio/tree/main/02-istanbul-shopping-analysis)
 
-**Tools:** Python | Power BI | PowerPoint  
+**Tools:** SQL | Power BI | PowerPoint | Excel 
 **Completion:** March 2026
 
 Analysis of 99,457 customer transactions from 10 Istanbul 
