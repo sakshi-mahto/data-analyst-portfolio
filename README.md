@@ -32,6 +32,29 @@ Interactive dashboard analyzing sales trends, product performance, and category 
 
 ![Dashboard Preview](./01-sales-dashboard/dashboard_screenshot.png)
 
+
+### 2. 🛍️ [Istanbul Shopping Mall — Customer Data Analysis](https://github.com/sakshi-mahto/data-analyst-portfolio/tree/main/02-istanbul-shopping-analysis)
+
+**Tools:** Python | Power BI | PowerPoint  
+**Completion:** March 2026
+
+Analysis of 99,457 customer transactions from 10 Istanbul 
+shopping malls (2021–2023), uncovering ₺251.5M in revenue patterns.
+
+**Highlights:**
+- Analyzed gender, age, category & payment behaviour
+- Built 5-page interactive Power BI dashboard
+- Identified 55+ age group as top revenue segment (₺67.1M)
+- Found Clothing drives 45.3% of all revenue
+
+**Key Metrics:**
+- Total Revenue: ₺251.5M
+- Top Segment: Female customers (59.8%)
+- Top Category: Clothing (₺114M)
+- Top Mall: Mall of Istanbul (₺50.9M)
+
+[View Project →](https://github.com/sakshi-mahto/data-analyst-portfolio/tree/main/02-istanbul-shopping-analysis)
+
 ---
 
 ## 🛠️ Technical Skills
